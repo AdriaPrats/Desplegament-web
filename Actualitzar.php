@@ -1,5 +1,5 @@
 <?php
-// PROVA
+// PROVA Git
 // Incluye el archivo de conexión
 require_once('Connexio.php');
 

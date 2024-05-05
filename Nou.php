@@ -2,6 +2,13 @@
 
 require_once('Connexio.php');
 require_once('Header.php');
+
+/**
+ * Nou
+ * Clase con 2 métodos.
+ * mostrarFormulari, se ocupa de generar un formulario HTML.
+ * nouProducte, lleva a cabo la tarea de añadir el producto a la BBDD.
+ */
 class Nou
 {
     public function mostrarFormulari()

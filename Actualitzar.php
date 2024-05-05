@@ -1,8 +1,13 @@
 <?php
-// PROVA Git
+
 // Incluye el archivo de conexión
 require_once('Connexio.php');
 
+/**
+ * Actualitzar.
+ * Clase para actualizar un producto en la base de datos.
+ * Contiene una función que ejecuta la consulta y redirige a la página principal si tiene éxito.
+ */
 class Actualitzar {
     
     // Método para actualizar un producto en la base de datos

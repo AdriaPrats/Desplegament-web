@@ -1,0 +1,19 @@
+Index: Connexio.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\nclass Connexio {\r\n    //Dades de la connexió a la base de dades la_meva_botiga.\r\n    private $host = \"localhost\";\r\n    private $usuario = \"root\";\r\n    private $contraseña = \"\";\r\n    private $baseDatos = \"la_meva_botiga\";\r\n\r\n    public function obtenirConnexio() {\r\n        $conexion = new mysqli($this->host, $this->usuario, $this->contraseña, $this->baseDatos);\r\n\r\n        if ($conexion->connect_error) {\r\n            die(\"Error de conexión: \" . $conexion->connect_error);\r\n        }\r\n\r\n        return $conexion;\r\n    }\r\n}\r\n\r\n?>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Connexio.php b/Connexio.php
+--- a/Connexio.php	(revision 656af78baf13029166d1c74bb38ff44a45806483)
++++ b/Connexio.php	(date 1714900520472)
+@@ -4,7 +4,7 @@
+     //Dades de la connexió a la base de dades la_meva_botiga.
+     private $host = "localhost";
+     private $usuario = "root";
+-    private $contraseña = "";
++    private $contraseña = "adriaroot";
+     private $baseDatos = "la_meva_botiga";
+ 
+     public function obtenirConnexio() {

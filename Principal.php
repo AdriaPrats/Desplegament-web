@@ -3,6 +3,10 @@
 require_once('Connexio.php');
 require_once('Header.php');
 
+/**
+ * Principal
+ * Clase ocupada de mostrar la página principal de la aplicación.
+ */
 class Principal {
     
     // Método para mostrar la lista de productos

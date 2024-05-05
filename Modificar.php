@@ -3,6 +3,11 @@
 require_once('Connexio.php');
 require_once('Header.php');
 
+/**
+ * Modificar
+ * Clase con un método el cual recibe el id del producto a modificar.
+ * A continuación crear un formulario para modificar sus valores.
+ */
 class Modificar {
 
     // Método para mostrar el formulario de modificación del producto

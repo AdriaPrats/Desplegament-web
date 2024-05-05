@@ -1,6 +1,12 @@
 <?php
 
 require_once('Connexio.php');
+
+/**
+ * Eliminar
+ * Clase con un método el qual recibe como parámetro el id de un producto
+ * para posteriormente eliminarlo.
+ */
 class Eliminar
 {
     public function eliminarProducte($id)

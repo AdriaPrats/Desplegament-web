@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4568550b-a856-43ed-8506-613f82b34a5b" name="Changes" comment="Eliminar arxiu amb nom incorrecte">
+      <change beforePath="$PROJECT_DIR$/Actualitzar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Actualitzar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Connexio.php" beforeDir="false" afterPath="$PROJECT_DIR$/Connexio.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eliminar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Eliminar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modificar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Modificar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nou.php" beforeDir="false" afterPath="$PROJECT_DIR$/Nou.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Principal.php" beforeDir="false" afterPath="$PROJECT_DIR$/Principal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdriaPrats&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOL3GQKc5uj8Kd",
+        "number": 1
+      },
+      "lastSeen": 1714900605337
+    }
+  ]
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AdriaPrats/Desplegament-web.git",
+    "accountId": "3db103e5-a2e1-4cf3-b619-c8b0eaaabb26"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "AdriaPrats",
+    "repository": "Desplegament-web"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2g0Yts8pB68V0Bu94g6LikmgCMp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PHP Script.Principal.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aprat/TascaDAW/Desplegament-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4568550b-a856-43ed-8506-613f82b34a5b" name="Changes" comment="" />
+      <created>1714836181327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714836181327</updated>
+      <workItem from="1714837134573" duration="6410000" />
+      <workItem from="1714893438510" duration="8790000" />
+    </task>
+    <task id="LOCAL-00001" summary="Prova de Commit desde PHPStorm">
+      <option name="closed" value="true" />
+      <created>1714837852750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714837852750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Un altre commit">
+      <option name="closed" value="true" />
+      <created>1714842750602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714842750602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creació dels arxius Nou i Elimina. Els 2 es troben buits">
+      <option name="closed" value="true" />
+      <created>1714843180091</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714843180091</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creació de l'arxiu Eliminar.php - Funcionament correcte">
+      <option name="closed" value="true" />
+      <created>1714847264717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714847264717</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creació de l'arxiu Nou.php - Funcionament correcte">
+      <option name="closed" value="true" />
+      <created>1714895919048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714895919048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Eliminar arxiu amb nom incorrecte">
+      <option name="closed" value="true" />
+      <created>1714900670158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714900670158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prova de Commit desde PHPStorm" />
+    <MESSAGE value="Un altre commit" />
+    <MESSAGE value="Creació dels arxius Nou i Elimina. Els 2 es troben buits" />
+    <MESSAGE value="Creació de l'arxiu Eliminar.php - Funcionament correcte" />
+    <MESSAGE value="Creació de l'arxiu Nou.php - Funcionament correcte" />
+    <MESSAGE value="Eliminar arxiu amb nom incorrecte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eliminar arxiu amb nom incorrecte" />
+  </component>
+</project>

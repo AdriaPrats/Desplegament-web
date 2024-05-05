@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Footer
+ * Clase con un método el cual genera el footer de la
+ * página.
+ */
 class Footer {
 
    // Método para mostrar el pie de página

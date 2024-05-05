@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Header
+ * Clase encargada de generar la cabecera del sitio.
+ */
 class Header {
     
     // Método para mostrar el encabezado
